@@ -1,2 +1,2 @@
 # BLOG
-GOOD JOB ?
+IT'S WEB SITE :blog-web-bek.netlify.app
